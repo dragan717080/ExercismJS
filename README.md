@@ -8,7 +8,7 @@
 
 </div>
 
-## <a name="no-link">Collection of 98 solved Exercism exercises in JavaScript</a>
+## <a name="no-link">Collection of 149 solved Exercism exercises in JavaScript</a>
 
 ## <a href="https://exercism.org/tracks/javascript">Link to exercises</a>
 
